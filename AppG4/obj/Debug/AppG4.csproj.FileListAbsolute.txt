@@ -1,0 +1,14 @@
+F:\NET Framework\AppG4\AppG4\bin\Debug\AppG4.exe.config
+F:\NET Framework\AppG4\AppG4\bin\Debug\Data\student_data.info
+F:\NET Framework\AppG4\AppG4\bin\Debug\AppG4.exe
+F:\NET Framework\AppG4\AppG4\bin\Debug\AppG4.pdb
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.frmThongTinSinhVien.resources
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.frmTinhToanCoBan.resources
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.Properties.Resources.resources
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.csproj.GenerateResource.Cache
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.exe
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.pdb
+F:\NET Framework\AppG4\AppG4\bin\Debug\Data\historylearning_data.info
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.csprojAssemblyReference.cache
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.Data.frmQuaTrinhHocTap_ChiTiet.resources
+F:\NET Framework\AppG4\AppG4\obj\Debug\AppG4.Form1.resources
